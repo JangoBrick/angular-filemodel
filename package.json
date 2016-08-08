@@ -1,0 +1,24 @@
+{
+  "name": "angular-filemodel",
+  "version": "0.0.0",
+  "description": "AngularJS module for connecting file inputs to ng-model",
+  "dependencies": {
+    "angular": "^1.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JangoBrick/angular-filemodel.git"
+  },
+  "keywords": [
+    "angular",
+    "file",
+    "model",
+    "directive"
+  ],
+  "author": "JangoBrick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JangoBrick/angular-filemodel/issues"
+  },
+  "homepage": "https://github.com/JangoBrick/angular-filemodel"
+}
