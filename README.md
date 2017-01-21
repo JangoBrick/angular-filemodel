@@ -11,6 +11,8 @@ At the moment, it is the only directive that supports multiple file selections.
 npm install --save angular-filemodel
 ```
 
+... and add it to your page via a `<script>` tag, or include it in your build process.
+
 
 
 ## Usage
