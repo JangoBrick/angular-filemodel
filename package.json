@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JangoBrick/angular-filemodel.git"
+    "url": "git+https://github.com/meyfa/angular-filemodel.git"
   },
   "keywords": [
     "angular",
@@ -15,10 +15,10 @@
     "model",
     "directive"
   ],
-  "author": "JangoBrick",
+  "author": "Fabian Meyer",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JangoBrick/angular-filemodel/issues"
+    "url": "https://github.com/meyfa/angular-filemodel/issues"
   },
-  "homepage": "https://github.com/JangoBrick/angular-filemodel"
+  "homepage": "https://github.com/meyfa/angular-filemodel"
 }
